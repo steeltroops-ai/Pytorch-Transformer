@@ -2,7 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-1706.03762-B31B1B.svg)](https://arxiv.org/abs/1706.03762)
 
-This repository contains the implementation of the Transformer model from the paper **"Attention is All You Need"** by Vaswani et al.
+This repository contains the implementation of the Transformer model from the paper **"Attention is All You Need"**.
 
 ## Overview
 
